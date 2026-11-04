@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">متصفح مدار</string>
+    <string name="browser_subtitle">تصفح فائق السرعة ومدير تحميلات ذكي</string>
+    <string name="search_or_type_url">ابحث في Google أو اكتب عنوان URL...</string>
+    <string name="nav_browser">المتصفح</string>
+    <string name="nav_downloads">التحميلات</string>
+    <string name="nav_bookmarks">المفضلة</string>
+    <string name="nav_history">السجل</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="home_quick_links">اختصارات سريعة</string>
+    <string name="home_downloads_summary">ملخص مدير التحميلات</string>
+    <string name="home_sample_downloads">روابط تجريبية لاختبار مدير التحميلات فوراً</string>
+    <string name="download_dialog_title">تأكيد وتخصيص التحميل</string>
+    <string name="download_file_name_label">اسم الملف قبل الحفظ</string>
+    <string name="download_folder_label">مجلد ومسار الحفظ المخصص</string>
+    <string name="download_change_folder">اختيار مجلد مخصص (SAF)</string>
+    <string name="download_start_btn">بدء التحميل الآن</string>
+    <string name="download_cancel_btn">إلغاء</string>
+    <string name="downloads_empty_title">لا توجد تحميلات في هذا القسم حالياً</string>
+    <string name="downloads_empty_subtitle">ابدأ بتصفح الويب أو أضف رابط تحميل مباشر لتجربة المحرك المتقدم</string>
+    <string name="add_direct_download">إضافة رابط تحميل</string>
+    <string name="theme_system">تلقائي حسب النظام</string>
+    <string name="theme_light">الوضع الفاتح</string>
+    <string name="theme_dark">الوضع المظلم</string>
+    <string name="setup_guide_title">دليل إعداد وتشغيل المشروع في Android Studio</string>
+</resources>

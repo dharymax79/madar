@@ -1,0 +1,6 @@
+{
+  "name": "متصفح مدار",
+  "description": "متصفح ويب عربي سريع وآمن مع مدير تحميلات متقدم يدعم تخصيص أسماء الملفات ومسارات التخزين والاستئناف التلقائي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
