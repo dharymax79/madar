@@ -23,10 +23,7 @@ jobs:
       uses: gradle/actions/setup-gradle@v3
 
     - name: Build Debug APK
-      env:
-        JAVA_TOOL_OPTIONS: "-Djava.awt.headless=true -Djava.awt.headlesslib=true"
-        GRADLE_OPTS: "-Djava.awt.headless=true -Dorg.gradle.jvmargs=\"-Xmx4g -Djava.awt.headless=true\""
-      run: gradle assembleDebug --stacktrace --no-daemon
+      run: gradle assembleDebug --stacktrace
 
     - name: Upload APK Artifact
       uses: actions/upload-artifact@v4
